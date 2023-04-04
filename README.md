@@ -5,4 +5,5 @@ This is a basic amigo secreto crud system
 
 - Install all dependencies, especified in package.json
 - Run `npm run back`
+- Start mongodb server
 - Open any html view in browser
